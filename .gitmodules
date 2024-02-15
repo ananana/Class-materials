@@ -1,0 +1,3 @@
+[submodule "nlp-projects"]
+	path = nlp-projects
+	url = git@github.com:ananana/nlp-projects.git
